@@ -44,7 +44,7 @@ Whenever a user wants they can go through the project history, revert back to ol
 
 Most importantly, a user using DVCS can make and save changes locally without being connected over the network to any other peers or any server hosting a copy of that project.
 
-Whenever the user gets network access, they can push her saved changes to remote peers or to a remote server that stores a copy of that project.
+Whenever the user gets network access, they can push their saved changes to remote peers or to a remote server that stores a copy of that project.
 
 As there is no need of running a separate server for working with DVCS, they are easier to maintain and can be used in various kinds of workflows.
 
