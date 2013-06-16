@@ -139,6 +139,11 @@ When cloning a remote repository, a reference to the remote repository is stored
 
 In VCS-speak, we refer remote repositories from where you fetch changes as "upstream".
 
+e.g. for those who are familiar with Ubuntu will know that Debian is the "upstream" of Ubuntu
+
+This is because Ubuntu regularly fetches changes from Debian and merges it with their changes
+
+
 ---- Check for questions ----
 
 A *fork* is usually described as a clone of an existing repository, which is taken as a starting point of creating something different from the original repository.
